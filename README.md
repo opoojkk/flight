@@ -1,2 +1,2 @@
 # flight
-ruleset for proxy tools
+ruleset for proxy tool
