@@ -1,2 +1,2 @@
-# clash-rule
-ruleset for clash
+# flight
+ruleset for proxy tools
