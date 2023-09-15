@@ -1,0 +1,32 @@
+// OpenAI, ChatGPT
+HOST-SUFFIX,ai.com
+HOST-SUFFIX,auth0.openai.com
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,chat.openai.com.cdn.cloudflare.net
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,featuregates.org
+HOST-SUFFIX,identrust.com
+HOST-SUFFIX,intercom.io
+HOST-SUFFIX,invoice.stripe.com
+HOST-SUFFIX,ios.chat.openai.com
+HOST-SUFFIX,js.intercomcdn.com
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,pay.openai.com
+HOST-SUFFIX,platform.openai.com
+HOST-SUFFIX,stripe.com
+HOST-SUFFIX,statsigapi.net
+HOST,cdn.auth0.com
+HOST,openaiapi-site.azureedge.net
+HOST,challenges.cloudflare.com
+
+// Google Bard
+HOST-SUFFIX,bard.google.com
+
+// Bing
+HOST-SUFFIX,bing.com
+
+// Pi
+HOST-SUFFIX,heypi.com
+
+// Poe
+HOST-SUFFIX,poe.com
