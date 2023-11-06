@@ -8,7 +8,11 @@
 # PROCESS-NAME: 1
 # TOTAL: 39
 DOMAIN,emby.enjoyit.eu.org
-DOMAIN-SUFFIX,*.jmsooo.com
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
 DOMAIN-SUFFIX,cristiamo.xyz
 DOMAIN-SUFFIX,emby.cjpc.cc
 DOMAIN-SUFFIX,emby.cjpc.tv
@@ -29,10 +33,12 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,emby.xeton.dev
 DOMAIN-SUFFIX,emby.ytoo.li
 DOMAIN-SUFFIX,embyserver.ga
+DOMAIN-SUFFIX,hinet.jmsooo.com
 DOMAIN-SUFFIX,jellyfin.xeton.dev
 DOMAIN-SUFFIX,line.emby.men
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,ntt1.jmsooo.com
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
